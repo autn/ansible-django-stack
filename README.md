@@ -1,5 +1,5 @@
 
-ansible-django-stack
+autn:ansible-django-stack
 ====================
 
 ![Build Status](https://github.com/jcalazan/ansible-django-stack/actions/workflows/molecule.yml/badge.svg?branch=master)
